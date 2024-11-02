@@ -1,5 +1,5 @@
 //
-//  guessedLetters.hpp
+//  guessedLetters.h
 //  hangman.cpp15
 //
 //  Created by Jovhems Jean-Baptiste on 11/2/24.
